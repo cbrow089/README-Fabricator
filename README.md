@@ -1,8 +1,8 @@
 
-  # stuff [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # README-Fabricator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
   ## Description
-  * more stuff 
+  * This is a command-line application designed to allow the user to create a professional README file to add to their repository using input data collected from prompts in the command-line interface of node. 
     
   ## Table of Contents
   - [Installation](#installation)
@@ -13,10 +13,10 @@
   - [Contact](#questions)
     
   ## Installation
-  * magic
+  * Installation requires VS code and node.js to be installed on your local machine.  In addition this will also require that the user installs the node packages for npm of inquirer, fs, and generateMarkdown.
     
   ## Usage
-  more magic
+  The user opens the terminal inside VS code and enters the command node index.js and it will then prompt the user with a series of questions about their project which will then create a professional README file using the input data.
     
   
   ## License
@@ -26,15 +26,13 @@
   https://opensource.org/licenses/MIT
 
   ## Contributing
-  none
+  This is a place the user can outline any guidlines they have for other users to contribute to their project
     
   ## Tests
-  none
+  This is a place the user can outline any testing instructions they have for their project
     
   ## Questions
-  no
-    
-  ## Contact
+  If you have any question you can contact me at the following:
     
   - [GitHub](https://github.com/cbrow089)
     

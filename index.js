@@ -1,7 +1,6 @@
 // TODO: Include packages needed for this application
 import inquirer from 'inquirer';
 import fs from 'fs';
-import path from 'path';
 import generateMarkdown from './utils/generateMarkdown.js';
 
 // TODO: Create an array of questions for user input
@@ -43,11 +42,6 @@ const questions = [
             type: 'input',
             name: 'tests',
             message: 'Do you have instructions for testing?',
-        },
-        {
-            type: 'input',
-            name: 'questions',
-            message: 'Do you have any questions to add?',
         },
         {
             type: 'input',
